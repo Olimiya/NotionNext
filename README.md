@@ -29,21 +29,21 @@
 
 | Next | Medium | Hexo | Fukasawa |
 |--|--|--|--|
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://preview.tangly1024.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
+| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://tangly1024.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://tangly1024.com/?theme=fukasawa) |
 
 ## 我要如何开始？
 
 只需几分钟即可搭建您的个人站点：
 
-- [快速部署教程 - 多种方案可供选择](https://tangly1024.com/article/notion-next) 
+- [部署教程 (支持多方案)](https://docs.tangly1024.com/) 
 
-- [个性配置手册 - 如何配置功能插件](https://tangly1024.com/article/notion-next-guide) 
+- [配置手册 - (自定义插件)](https://docs.tangly1024.com/article/notion-next-guide) 
 
-- [二次开发指引 - 如何进行本地开发](https://tangly1024.com/article/how-to-develop-with-notion-next)
+- [二次开发 - (开发手册)](https://docs.tangly1024.com/article/notion-next-secondary-menu)
 
-- [更新操作指南 - 获取最新升级补丁](https://tangly1024.com/article/how-to-update-notionnext)
+- [更新指南 - (升级您的代码)](https://docs.tangly1024.com/article/how-to-update-notionnext)
 
-- [历史版本汇总 - 查询版本功能特性](https://tangly1024.com/article/notion-next-changelogs)
+- [版本汇总 - (查询变动功能)](https://docs.tangly1024.com/article/notion-next-changelogs)
 
 ## 致谢
 感谢Craig Hart发起的Nobelium项目
